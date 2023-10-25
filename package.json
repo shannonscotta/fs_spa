@@ -1,6 +1,7 @@
 {
   "name": "fs_spa",
   "version": "1.0.0",
+  "type": "module",
   "description": "full stack single page application exercise, tear down and rebuild over and over",
   "main": "index.js",
   "scripts": {

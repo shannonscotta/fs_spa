@@ -22,11 +22,19 @@ run `SELECT * FROM table_name;` to verify
  - type "! + tab" inside the file to create boiler plate HTML -->
 
 # create server
+
 run `npm init -y` to initialize node project
 run `npm install express pg dotenv`to install dependencies 
 - click into the newly created "package.json" and add "type: module" above the dependencies, this enables es module syntax
 
 - create a "server.js" file
+
+<!-- run `node --watch server.js` -->
+
+
+
+
+
 
 # git ignore
 - create ".gitignore"
