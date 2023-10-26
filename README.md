@@ -29,10 +29,14 @@ run `npm install express pg dotenv`to install dependencies
 
 - create a "server.js" file
 
-<!-- run `node --watch server.js` -->
+run `node --watch server.js`
 
 
 
+- create public dir with index.html and app.js
+- add script tag, src of app.js and defer in the head of index.html
+
+- add fetch to the app.js
 
 
 
