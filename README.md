@@ -32,7 +32,6 @@ run `npm install express pg dotenv`to install dependencies
 run `node --watch server.js`
 
 
-
 - create public dir with index.html and app.js
 - add script tag, src of app.js and defer in the head of index.html
 
